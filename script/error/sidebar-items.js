@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Error"],"struct":["BuildDfLogicalPlanSnafu","CastTypeSnafu","CollectRecordsSnafu","CompilePythonSnafu","ExecuteInternalStatementSnafu","ExecutePythonSnafu","FindColumnInScriptsTableSnafu","FindScriptSnafu","FindScriptsTableSnafu","InsertScriptSnafu","RegisterScriptsTableSnafu","ScriptNotFoundSnafu","ScriptsTableNotFoundSnafu"],"type":["Result"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["COLUMNS","TABLES"],"mod":["columns","tables"],"struct":["InformationSchemaProvider","InformationTableDataSource"],"trait":["InformationTable"],"type":["InformationTableRef"]};

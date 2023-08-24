@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["TIMESTAMP_KEY_LEN"],"enum":["Source"],"fn":["concat_arrays"],"mod":["merge"],"struct":["Batch","BatchBuilder","BatchColumn","SourceStats"],"trait":["BatchReader"],"type":["BoxedBatchReader"]};
